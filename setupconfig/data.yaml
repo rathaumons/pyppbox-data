@@ -1,0 +1,44 @@
+--- # YOLO_Classic
+name: YOLO_Classic
+version: 1.0
+pkg_suffix: yolocls
+data_paths: 
+  - pyppbox.data.modules.yolo_classic
+#
+--- # YOLO_Ultralytics
+name: YOLO_Ultralytics
+version: 1.0
+pkg_suffix: yoloult
+data_paths: 
+  - pyppbox.data.modules.yolo_ultralytics
+#
+--- # DeepSORT
+name: DeepSORT
+version: 1.0
+pkg_suffix: deepsort
+data_paths: 
+  - pyppbox.data.modules.deepsort
+#
+--- # FaceNet
+name: FaceNet
+version: 1.0
+pkg_suffix: facenet
+data_paths: 
+  - pyppbox.data.modules.facenet
+  - pyppbox.data.modules.facenet.classifier
+  - pyppbox.data.modules.facenet.models
+  - pyppbox.data.modules.facenet.models.20180402-114759
+  - pyppbox.data.modules.facenet.models.20180402-114759.more
+  - pyppbox.data.modules.facenet.models.det
+#
+--- # Torchreid
+name: Torchreid
+version: 1.0
+pkg_suffix: torchreid
+data_paths: 
+  - pyppbox.data.modules.torchreid
+  - pyppbox.data.modules.torchreid.classifier
+  - pyppbox.data.modules.torchreid.models
+  - pyppbox.data.modules.torchreid.models.base
+  - pyppbox.data.modules.torchreid.models.torchreid
+#
