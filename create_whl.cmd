@@ -20,8 +20,6 @@ setlocal
 cd /d %~dp0
 set "PYTHONWARNINGS=ignore"
 python -m pip install --upgrade pip
-pip install wheel
-pip install build
-pip install PyYAML
+pip install wheel build PyYAML
 python -m build --wheel --skip-dependency-check --no-isolation
 pause
