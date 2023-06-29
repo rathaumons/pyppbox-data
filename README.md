@@ -10,27 +10,27 @@
 
 ## Installation (Only for `pyppbox` V3)
 
-* `YOLO_Classic` | [License/Repo](https://github.com/AlexeyAB/darknet):
+* `YOLO_Classic` | [License/Repo](https://github.com/AlexeyAB/darknet)
     ```
     pip install https://github.com/rathaumons/pyppbox-data/releases/download/v1.0/pyppbox_data_yolocls-1.0-py3-none-any.whl
     ```
 
-* `YOLO_Ultralytics` | [License/Repo](https://github.com/ultralytics):
+* `YOLO_Ultralytics` | [License/Repo](https://github.com/ultralytics)
     ```
     pip install https://github.com/rathaumons/pyppbox-data/releases/download/v1.0/pyppbox_data_yoloult-1.0-py3-none-any.whl
     ```
 
-* `DeepSORT` | [License/Repo](https://github.com/deshwalmahesh/yolov7-deepsort-tracking):
+* `DeepSORT` | [License/Repo](https://github.com/deshwalmahesh/yolov7-deepsort-tracking)
     ```
     pip install https://github.com/rathaumons/pyppbox-data/releases/download/v1.0/pyppbox_data_deepsort-1.0-py3-none-any.whl
     ```
 
-* `FaceNet` | [License/Repo](https://github.com/davidsandberg/facenet):
+* `FaceNet` | [License/Repo](https://github.com/davidsandberg/facenet)
     ```
     pip install https://github.com/rathaumons/pyppbox-data/releases/download/v1.0/pyppbox_data_facenet-1.0-py3-none-any.whl
     ```
 
-* `Trochreid` | [License/Repo](https://github.com/KaiyangZhou/deep-person-reid):
+* `Trochreid` | [License/Repo](https://github.com/KaiyangZhou/deep-person-reid)
     ```
     pip install https://github.com/rathaumons/pyppbox-data/releases/download/v1.0/pyppbox_data_torchreid-1.0-py3-none-any.whl
     ```
