@@ -1,12 +1,12 @@
 # 📥 `pyppbox-data`
 
-* `pyppbox-data` can dynamically create individual data packages for the supported dectors/trackers/reiders of [`pyppbox`](https://github.com/rathaumons/pyppbox) V3 -> Learn more about the new structure of `pyppbox` V3 in the [official documentation](https://rathaumons.github.io/pyppbox/).
+* `pyppbox-data` can dynamically create individual data packages of the supported dectors/trackers/reiders for [`pyppbox V3`](https://github.com/rathaumons/pyppbox) -> Learn more about [the new structure here](https://rathaumons.github.io/pyppbox/pyppbox/structure.html).
 
-* `pyppbox-data` relies on its configurations inside [`setupconfig`](setupconfig) in order to create individual Python wheels.
+* `pyppbox-data` relies on the configurations inside [`setupconfig`](setupconfig) in order to create individual Python wheels.
 
-* Only very minimal amount of the neccessary pretrained weight/model are included in the prebuilt `.whl` files -> Check [GitHub releases](https://github.com/rathaumons/pyppbox-data/releases).
+* Only a few pretrained weight/model files are included in the prebuilt `.whl` [files on GitHub releases](https://github.com/rathaumons/pyppbox-data/releases).
 
-* The pretrained weight/model files are not included in this GitHub repo as they are big and totally consume over 1 GB of storage space.
+* The pretrained weight/model files are not included in the repo as they are too big (Over 1GB).
 
 ## Installation (Only for `pyppbox` V3)
 
